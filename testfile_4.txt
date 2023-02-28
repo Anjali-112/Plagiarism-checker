@@ -1,0 +1,1 @@
+This would ensure that the resultWorkerErr channel is always closed, even if b.resultWorker never returns an error. Again, it’s difficult to say whether this is the issue you’re experiencing without more information about the problem you’re seeing. Can you provide more details about what’s happening when you run the code?
